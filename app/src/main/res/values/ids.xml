@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cardFDSurgeon" type="id" />
+    <item name="cardFDCardiologists" type="id" />
+    <item name="cardFDBack" type="id" />
+    <item name="cardFDDentist" type="id" />
+    <item name="cardFDDietician" type="id" />
+    <item name="cardFDFamilyPhysician" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="editTextLoginUsername" type="id" />
+    <item name="editTextLoginPassword" type="id" />
+    <item name="buttonLogin" type="id" />
+    <item name="textViewNewUser" type="id" />
+</resources>

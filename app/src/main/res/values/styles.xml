@@ -1,0 +1,10 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Existing styles -->
+
+    <!-- Style for circular images -->
+    <style name="CircularImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
